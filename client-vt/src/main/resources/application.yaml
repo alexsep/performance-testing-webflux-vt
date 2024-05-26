@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: client-vt
+server:
+  port: 8088
+
